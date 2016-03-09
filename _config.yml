@@ -69,5 +69,5 @@ theme: landscape-plus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/hellodon/chaotang.github.io.git
+  repo: git@github.com:hellodon/chaotang.github.io.git
   branch: master
